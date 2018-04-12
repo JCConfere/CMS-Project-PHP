@@ -1,0 +1,40 @@
+body {
+  background-color: #2f4050;
+  font-family:
+}
+
+.about {
+  background-color: #ffffff;
+
+}
+
+#side-menu a {
+  color: #9fb1c2;
+}
+
+#side-menu .active a {
+  color: #ffffff;
+  background-color: #27aae1;
+  font-weight: bold;
+}
+
+#side-menu a:hover {
+  color: #ffffff;
+  background-color: #1ab394;
+  font-weight: bold;
+  display: block;
+  }
+
+#footer {
+  padding: 10px;
+  border-top: 1px solid black;
+  color: #eeeeee;
+  background-color: #211f22;
+  text-align: center;
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  border-bottom: 10px solid #337ab7;
+
+}
